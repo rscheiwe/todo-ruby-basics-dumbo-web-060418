@@ -22,6 +22,6 @@ def last_evaluated_value(str ="Expert")
   str
 end
 
-def pizza_party(arg)
+def pizza_party(arg = "Cheese")
   arg
 end
